@@ -1,0 +1,37 @@
+[
+   
+  {
+    "name": "ReactJS",
+    "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+},
+{
+    "name": "NodeJS",
+    "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+},
+{
+  "name": "Sass",
+  "icon": "https://img.icons8.com/color/48/000000/sass.png"
+},
+{
+  "name": "ExpressJS",
+  "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
+},
+{
+  "name": "PHP",
+  "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
+},
+{
+  "name": "Android",
+  "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
+},
+{
+  "name": "Kotlin",
+  "icon": "https://img.icons8.com/color/48/000000/kotlin.png"
+},
+{
+  "name": "Firebase",
+  "icon": "https://img.icons8.com/color/48/000000/firebase.png"
+}
+
+  ]
+  

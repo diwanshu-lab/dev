@@ -1,0 +1,45 @@
+[
+  
+  {
+    "name": "Premiere Pro",
+    "icon": "https://img.icons8.com/color/48/adobe-premiere-pro--v1.png"
+},
+{
+    "name": "Davinci",
+    "icon": "https://img.icons8.com/color/48/davinci-resolve.png"
+},
+{
+  "name": "photoshop",
+  "icon": "https://img.icons8.com/color/48/adobe-photoshop.png"
+},
+{
+  "name": "After Effects",
+  "icon": "https://img.icons8.com/color/48/adobe-after-effects--v1.png"
+},
+{
+  "name": "Lightroom",
+  "icon": "https://img.icons8.com/color/48/adobe-lightroom--v1.png"
+},
+{
+  "name": "Premier Rush",
+  "icon": "Rush.png"
+},
+{
+  "name": "Capcut",
+  "icon": "capcut-icon.png"
+},
+{
+  "name": "VN",
+  "icon": "pngaaa.com-6447820.png"
+},
+{
+  "name": "Picart",
+  "icon": "Picsart.png"
+},
+{
+ "name": "Canva",
+  "icon": "https://img.icons8.com/fluency/48/canva.png"
+}
+
+  ]
+  
